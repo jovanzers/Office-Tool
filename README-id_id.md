@@ -11,33 +11,33 @@
 <img alt="License" src="https://img.shields.io/github/license/YerongAI/Office-Tool?style=flat-square"/>
 </p>
 
-> A powerful and useful tool for Office deployments.
+> Sebuah Alat yang ampuh dan berguna untuk Pemasangan Office.
 
-Supports custom deployment and activation of the following products:
+Mendukung pemasangan kustom dan aktivasi produk berikut:
 
 - Office 2016, 2019 & 365
 - Visio 2016, 2019 & Online Plan 2
 - Project 2016, 2019 & Online Desktop Client
 
-Additional functions:
+Fungsi tambahan:
 
-- Support for all 17 channels of Office, including query, download, and installation.
-- Modifications to existing Office, including additions and deletions of products, applications, language packs, etc.
-- Importing/Exporting XML Profiles.
-- Create ISO files for sharing or offline installation.
-- Installing Office licenses (converted edition).
-- Cleanup of Office licenses and keys.
-- Supports online activation, phone activation (offline activation) and KMS activation.
-- Reset/Forced removal of Office.
-- Changing Office's update channel without reinstalling Office.
-- Batch conversion of Office documents, based on Office API (Version 8 only).
+- Dukungan untuk 17 saluran Office, termasuk kueri, unduhan dan pemasangan.
+- Modifikasi pada Office yang sudah ada, termasuk penambahan dan penghapusan produk, aplikasi, paket bahasa, dll.
+- Mengimpor / Mengekspor Profil XML.
+- Membuat berkas ISO untuk berbagi atau instalasi secara offline.
+- Menginstal lisensi Office (edisi yang dikonversi).
+- Membersihkan lisensi dan kunci produk Office.
+- Mendukung aktivasi secara online, aktivasi melalui telepon (aktivasi secara offline) dan aktivasi KMS.
+- Setel Ulang / Copot paksa Office.
+- Mengubah saluran pembaruan Office tanpa menginstal ulang Office.
+- Konversi sejumlah dokumen Office, berdasarkan API Office (Hanya versi 8).
 
-Components:
+Komponen:
 
-- **[Office Deployment Tool](https://docs.microsoft.com/en-us/deployoffice/overview-office-deployment-tool)** - The main modules of installing Office.
-- **[OSPP](https://docs.microsoft.com/en-us/DeployOffice/vlactivation/tools-to-manage-volume-activation-of-office)** - Office Software Protect Platform.
-- **Thunder** - The main engines for downloading Office.
-- **vlmcs** - Components for testing the availability of KMS, *only included in the full version*.
+- **[Office Deployment Tool](https://docs.microsoft.com/en-us/deployoffice/overview-office-deployment-tool)** - Modul utama dari pemasangan Office.
+- **[OSPP](https://docs.microsoft.com/en-us/DeployOffice/vlactivation/tools-to-manage-volume-activation-of-office)** - Office Software Protection Platform.
+- **Thunder** - Mesin utama untuk mengunduh Office.
+- **vlmcs** - Komponen untuk menguji ketersediaan KMS, *hanya disertakan dalam versi lengkap*.
 
 ## Persyaratan Sistem
 
@@ -48,28 +48,28 @@ Components:
 
 - [Microsoft .NET Core 3.1 Desktop Runtime x86](https://dotnet.microsoft.com/download/dotnet-core/3.1)
 
-*Note: This framework should be installed on all systems.*
+*Catatan: Framework ini harus dipasang pada semua sistem operasi.*
 
 ### Versi 7
 
 - [Microsoft .NET Framework 4.6.1](http://go.microsoft.com/fwlink/?LinkId=780597)
 
-*Note: A higher version is built into Windows 10 and does not require additional installation.*
+*Catatan: Versi yang lebih tinggi sudah terpasang pada Windows 10 dan tidak memerlukan instalasi tambahan.*
 
 ## Unduh Office Tool Plus
 
 [Situs Resmi](https://otp.landian.vip/)
 
-[Unduhan Cadangan](https://download.coolhub.top/)
+[Unduhan Cermin](https://download.coolhub.top/)
 
 ## Mulai Cepat
 
 Pergi ke laman Pemasangan, tambahkan produk yang ingin anda pasang, lalu klik Pasangkan Office untuk memulai pemasangannya.
 
-After installation, you will need a valid license to activate Office.
+Setelah pemasangan, Anda memerlukan lisensi yang valid untuk mengaktifkan Office.
 
-## About
+## Tentang
 
-© 2016-2020 Yerong. All rights reserved.
+© 2016-2020 Yerong. Seluruh hak cipta dilindungi.
 
 > Blog [@Yerong の小窝](https://www.coolhub.top/) · GitHub [@YerongAI](https://github.com/YerongAI) · Telegram [@Office Tool Plus](https://t.me/otp_channel)
