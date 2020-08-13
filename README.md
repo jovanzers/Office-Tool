@@ -21,7 +21,7 @@ Supports custom deployment and activation of the following products:
 
 Additional functions:
 
-- Support for all 17 channels of Office, including query, download, and installation.
+- Support for all 17 channels of Office, including query, download and installation.
 - Modifications to existing Office, including additions and deletions of products, applications, language packs, etc.
 - Importing/Exporting XML Profiles.
 - Create ISO files for sharing or offline installation.
@@ -35,7 +35,7 @@ Additional functions:
 Components:
 
 - **[Office Deployment Tool](https://docs.microsoft.com/en-us/deployoffice/overview-office-deployment-tool)** - The main modules of installing Office.
-- **[OSPP](https://docs.microsoft.com/en-us/DeployOffice/vlactivation/tools-to-manage-volume-activation-of-office)** - Office Software Protect Platform.
+- **[OSPP](https://docs.microsoft.com/en-us/DeployOffice/vlactivation/tools-to-manage-volume-activation-of-office)** - Office Software Protection Platform.
 - **Thunder** - The main engines for downloading Office.
 - **vlmcs** - Components for testing the availability of KMS, *only included in the full version*.
 
