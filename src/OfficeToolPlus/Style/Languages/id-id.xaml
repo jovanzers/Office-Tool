@@ -297,7 +297,7 @@
     <sys:String x:Key="ToolboxCollectLogDescription">Kumpulkan catatan untuk menganalisa dan memecahkan masalah yang tidak diketahui.</sys:String>
     <!-- Repair Tools -->
     <sys:String x:Key="ToolboxRemoveOffice">Copot Office</sys:String>
-    <sys:String x:Key="ToolboxRODescription">Ini akan mencopot komponen, berkas, dan registri terkait Office. Apabila pembersihan gagal, cobalah beberapa kali atau lakukan dengan cara lain.&#x000A;&#x000A;Catatan: Fitur ini hanya perlu digunakan ketika Office tidak bisa dicopot dengan benar.</sys:String>
+    <sys:String x:Key="ToolboxRODescription">Ini akan mencopot komponen, berkas dan registri terkait Office. Apabila pembersihan gagal, cobalah beberapa kali atau lakukan dengan cara lain.&#x000A;&#x000A;Catatan: Fitur ini hanya perlu digunakan ketika Office tidak bisa dicopot dengan benar.</sys:String>
     <sys:String x:Key="ToolboxRemoveViaOfficial">Copot Office melalui alat resmi</sys:String>
     <sys:String x:Key="ToolboxRemoveViaOfficeToolPlus">Copot Office melalui Office Tool Plus</sys:String>
     <sys:String x:Key="ToolboxRemoveUWPOffice">Copot aplikasi Office dari Microsoft Store</sys:String>
@@ -313,7 +313,7 @@
     <sys:String x:Key="ToolboxRepairTemplates">Mengembalikan template dokumen bawaan Word</sys:String>
     <sys:String x:Key="ToolboxRepairTemplatesDescription">Ini akan membangun ulang template dokumen bawaan Word untuk yang menampilkan [Compatible Mode] ketika dokumen baru dibuat.</sys:String>
     <sys:String x:Key="ToolboxResetOfficeSettings">Kembalikan pengaturan Office ke pengaturan aslinya</sys:String>
-    <sys:String x:Key="ToolboxResetOfficeSettingsDescription">Ini akan mengatur ulang pengaturan Office anda, termasuk pengaturan aplikasi, riwayat berkas lokal, dan jalur penyimpanan terakhir. Catatan: Harap tutup semua aplikasi Office sebelum melanjutkan.</sys:String>
+    <sys:String x:Key="ToolboxResetOfficeSettingsDescription">Ini akan mengatur ulang pengaturan Office anda, termasuk pengaturan aplikasi, riwayat berkas lokal dan jalur penyimpanan terakhir. Catatan: Harap tutup semua aplikasi Office sebelum melanjutkan.</sys:String>
     <!-- Convert Document -->
     <sys:String x:Key="ConvertSourceFormat">Format masukkan:</sys:String>
     <sys:String x:Key="ConvertOutputFormat">Format keluaran:</sys:String>
@@ -331,7 +331,7 @@
     <!-- About Panel -->
     <sys:String x:Key="AppInf">Informasi Aplikasi</sys:String>
     <sys:String x:Key="CreatorInfo">Dikembangkan oleh Yerong, berdasarkan Office Deployment Tool.</sys:String>
-    <sys:String x:Key="Copyright">Hak Cipta © 2016-{0} Yerong Seluruh hak cipta dilindungi.</sys:String>
+    <sys:String x:Key="Copyright">Hak Cipta © 2016-{0} Yerong. Seluruh hak cipta dilindungi.</sys:String>
     <sys:String x:Key="TrademarkInfo">Microsoft Office adalah merek dagang terdaftar atau merek dagang Microsoft Corporation di Amerika Serikat dan/atau negara lain.</sys:String>
     <sys:String x:Key="ServerProvider">Penyedia Server</sys:String>
     <sys:String x:Key="Translator">Penerjemah</sys:String>
@@ -341,7 +341,7 @@
     
     <!-- Text about Textbox, notice to control the string length. -->
     <sys:String x:Key="TextBlockCommand">> Masukkan perintah di sini.</sys:String>
-    <sys:String x:Key="TextBlockResources">Lokal, jaringan, atau jalur HTTP.</sys:String>
+    <sys:String x:Key="TextBlockResources">Lokal, jaringan atau jalur HTTP.</sys:String>
 
     <!-- Task Message -->
     <sys:String x:Key="Task_PreparingDownload">Mempersiapkan untuk mengunduh Office.</sys:String>
